@@ -1,5 +1,5 @@
 {
-    "name": "wxjing/composerTest",
+    "name": "wxjing/composer-sest",
     "description": "Scan URLs FROM A CSV FILE AND REPORT INACCESSIBLE URLs",
     "keywords": ["url", "scanner", "csv"],
     "homepage": "http://laravelacademy.org",
